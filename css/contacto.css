@@ -9,10 +9,8 @@
     background-repeat: no-repeat;
 }
 
-.tabla2{
-   
-    padding: left 25px;
-    font-size: 30px;
+.container-md-12{
+    background-color: rgb(255, 255, 255);
 }
 
 .nav-link{
@@ -20,7 +18,14 @@
     background-color: white;
 }
 
-.container-md-12{
-    background-color: rgb(255, 255, 255);
-}
 
+h1{
+    font-size: 4rem;
+    letter-spacing: 2px;
+    border: solid 10px #fff;
+    border-radius: px;
+    top: 100%;
+    left: 100%;
+    padding: 50px;
+    
+}

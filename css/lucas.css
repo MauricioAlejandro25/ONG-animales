@@ -9,8 +9,10 @@
     background-repeat: no-repeat;
 }
 
-.container-md-12{
-    background-color: rgb(255, 255, 255);
+.tabla2{
+   
+    padding: left 25px;
+    font-size: 30px;
 }
 
 .nav-link{
@@ -18,17 +20,10 @@
     background-color: white;
 }
 
-
-h1{
-    font-size: 4rem;
-    letter-spacing: 2px;
-    border: solid 10px #fff;
-    border-radius: px;
-    top: 100%;
-    left: 100%;
-    padding: 50px;
-    
+.container-md-12{
+    background-color: rgb(255, 255, 255);
 }
+
 .card-text{
     color: black;
 }
